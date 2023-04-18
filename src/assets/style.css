@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(33, 41, 59);
+    color: antiquewhite;
+}
+header{ 
+    width: 1350px;
+    position: fixed;
+    color: rgb(11, 202, 33);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    text-decoration: none;
+
+}
+.keterangan{
+    color: rgb(82, 74, 74);
+}
+ul{
+text-align: right;
+margin: 0;
+padding: 0;
+list-style: none;
+}
+li{
+display: inline-block;
+margin-right: 5px;
+}
+nav{
+background-color: rgb(255, 255, 255);
+padding: 0px;
+text-align: center;
+}
+.badan{
+    padding: 300px;
+    background-color: rgba(15, 15, 15, 0.205);
+
+}
+.btn.btn-success{
+    font-family: Verdana;
+    background-color: rgb(11, 202, 33) ;
+    border-color: rgb(11, 202, 33) ;
+
+}
+div.masbro{
+background-color: rgb(48, 77, 51);
+color: rgb(255, 255, 255);
+display: inline-block;
+margin: 0px 0px 0px 205px;
+}
+footer{
+    padding: 10px;
+    background-color: rgb(48, 77, 51);
+}
+.gambar{
+    margin: 38px;
+}
+.cr{
+    color: rgb(154, 160, 167);
+}
